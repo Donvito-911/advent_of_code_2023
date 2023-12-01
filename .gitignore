@@ -1,1 +1,6 @@
 data
+# Emacs temporary files
+*~
+
+# Emacs autosave files
+#*#
